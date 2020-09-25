@@ -1,4 +1,6 @@
 package guava.utilites;
 //=========================================
-//     guava utils demo @{link JoinerTest}
+//     guava utils demo
+//     Joiner {@link JoinerTest}
+//     Splitter {@link SplitterTest}
 //=========================================
